@@ -8,4 +8,5 @@ The simulation features a map which changes based on which nations possess which
 Anyone is free to edit any of this code however they please. If you modify this code, I ask you send me whatever you've made, it's always cool to see
 what people do with stuff you've made. 
 
+Video this simulator is based on: https://www.youtube.com/watch?v=xSxEdLa7k24&t=0s&ab_channel=DruuuWu
 Email: xavifmw@gmail.com
